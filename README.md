@@ -6,4 +6,4 @@ Dhaka Traffic Detection is an Android application, where the user is able to det
 Full Dataset Link: https://drive.google.com/drive/folders/1tMgWL4zN2YfppVxFfPIC8ILQ-dZ_aziP?usp=sharing
 
 
-<img src="https://github.com/navidnayyem/CapstoneGroupFinalProject-DhakaTrafficDetection/blob/main/App_Screenshot.jpg" width="800px" height="500px">
+<img src="https://github.com/navidnayyem/CapstoneGroupFinalProject-DhakaTrafficDetection/blob/main/App_Screenshot.jpg" width="1000px" height="600px">
