@@ -7,3 +7,8 @@ Full Dataset Link: https://drive.google.com/drive/folders/1tMgWL4zN2YfppVxFfPIC8
 
 
 <img src="https://github.com/navidnayyem/CapstoneGroupFinalProject-DhakaTrafficDetection/blob/main/App_Screenshot.jpg" width="1000px" height="600px">
+
+<video>
+    <source media="(min-width: 1200px)" src="video-large.mp4 1200w" type="video/mp4">
+    <source src="Traffic Vehicle Detection from Real-Time Video.mp4" type="video/mp4">
+</video>
